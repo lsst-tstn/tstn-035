@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{TSTN-035,
+   author = { Tiago Ribeiro },
+    title = {Handling Targets of Opportunity},
+     year = 2022,
+    month = May,
+   handle = {TSTN-035},
+      url = {https://tstn-035.lsst.io } }
